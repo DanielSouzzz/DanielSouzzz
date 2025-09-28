@@ -4,7 +4,7 @@
 
 ---
 
-Sou **Desenvolvedor Backend Java** com experiência prática em **Spring Boot**, mas também uso **JavaScript** para **Node.js e React** em projetos fullstack.  
+Sou estudante de Engenharia de Software e **desenvolvedor** em formação, com experiência em projetos utilizando **Java, Spring Boot, Docker, PostgreSQL e Redis**. Tenho interesse em criar soluções escaláveis, seguras e bem estruturadas, aplicando boas práticas de desenvolvimento e metodologias ágeis.
 
 ---
 
